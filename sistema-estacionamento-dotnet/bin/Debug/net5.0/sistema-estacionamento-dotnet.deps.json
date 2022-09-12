@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "sistema-estacionamento-dotnet/1.0.0": {
+        "runtime": {
+          "sistema-estacionamento-dotnet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sistema-estacionamento-dotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

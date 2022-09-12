@@ -1,0 +1,15 @@
+C:\Users\t\Desktop\C#\Projetos\sistema-estacionamento-dotnet\sistema-estacionamento-dotnet\obj\Debug\net6.0\sistema-estacionamento-dotnet.csproj.AssemblyReference.cache
+C:\Users\t\Desktop\C#\Projetos\sistema-estacionamento-dotnet\sistema-estacionamento-dotnet\obj\Debug\net6.0\sistema-estacionamento-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t\Desktop\C#\Projetos\sistema-estacionamento-dotnet\sistema-estacionamento-dotnet\obj\Debug\net6.0\sistema-estacionamento-dotnet.AssemblyInfoInputs.cache
+C:\Users\t\Desktop\C#\Projetos\sistema-estacionamento-dotnet\sistema-estacionamento-dotnet\obj\Debug\net6.0\sistema-estacionamento-dotnet.AssemblyInfo.cs
+C:\Users\t\Desktop\C#\Projetos\sistema-estacionamento-dotnet\sistema-estacionamento-dotnet\obj\Debug\net6.0\sistema-estacionamento-dotnet.csproj.CoreCompileInputs.cache
+C:\Users\t\Desktop\C#\Projetos\sistema-estacionamento-dotnet\sistema-estacionamento-dotnet\bin\Debug\net6.0\sistema-estacionamento-dotnet.exe
+C:\Users\t\Desktop\C#\Projetos\sistema-estacionamento-dotnet\sistema-estacionamento-dotnet\bin\Debug\net6.0\sistema-estacionamento-dotnet.deps.json
+C:\Users\t\Desktop\C#\Projetos\sistema-estacionamento-dotnet\sistema-estacionamento-dotnet\bin\Debug\net6.0\sistema-estacionamento-dotnet.runtimeconfig.json
+C:\Users\t\Desktop\C#\Projetos\sistema-estacionamento-dotnet\sistema-estacionamento-dotnet\bin\Debug\net6.0\sistema-estacionamento-dotnet.dll
+C:\Users\t\Desktop\C#\Projetos\sistema-estacionamento-dotnet\sistema-estacionamento-dotnet\bin\Debug\net6.0\ref\sistema-estacionamento-dotnet.dll
+C:\Users\t\Desktop\C#\Projetos\sistema-estacionamento-dotnet\sistema-estacionamento-dotnet\bin\Debug\net6.0\sistema-estacionamento-dotnet.pdb
+C:\Users\t\Desktop\C#\Projetos\sistema-estacionamento-dotnet\sistema-estacionamento-dotnet\obj\Debug\net6.0\sistema-estacionamento-dotnet.dll
+C:\Users\t\Desktop\C#\Projetos\sistema-estacionamento-dotnet\sistema-estacionamento-dotnet\obj\Debug\net6.0\ref\sistema-estacionamento-dotnet.dll
+C:\Users\t\Desktop\C#\Projetos\sistema-estacionamento-dotnet\sistema-estacionamento-dotnet\obj\Debug\net6.0\sistema-estacionamento-dotnet.pdb
+C:\Users\t\Desktop\C#\Projetos\sistema-estacionamento-dotnet\sistema-estacionamento-dotnet\obj\Debug\net6.0\sistema-estacionamento-dotnet.genruntimeconfig.cache
